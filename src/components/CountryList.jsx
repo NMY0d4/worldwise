@@ -7,7 +7,6 @@ import Spinner from './Spinner';
 function CountryList({ cities, isLoading }) {
   if (isLoading) return <Spinner />;
 
-  console.log(cities);
   if (!cities.length)
     return (
       <Message message='Add your first city by clicking on a city on the map' />
@@ -22,7 +21,7 @@ function CountryList({ cities, isLoading }) {
   return (
     <ul className={styles.countryList}>
       {countries.map((country) => (
-        <CountryItem key={country.id} country={country} />
+        <CountryItem key={country.country} country={country} />
       ))}
     </ul>
   );
