@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Beuzeville",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-18T12:41:16.756Z",
+      "notes": "My home",
+      "position": {
+        "lat": "49.3411326468415",
+        "lng": "0.3455543518066407"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Pont-Audemer",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-18T12:46:52.009Z",
+      "notes": "Sarah Work",
+      "position": {
+        "lat": "49.345536411699364",
+        "lng": "0.5418062210083009"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Pont-l'Eveque",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-18T12:50:51.382Z",
+      "notes": "Drive Pont-l'evêques",
+      "position": {
+        "lat": "49.29197947948821",
+        "lng": "0.19593000411987307"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Honfleur",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-18T12:54:01.638Z",
+      "notes": "Pont de Normandie",
+      "position": {
+        "lat": "49.42805846416217",
+        "lng": "0.2741003036499024"
+      },
+      "id": 98443201
     }
   ]
 }
