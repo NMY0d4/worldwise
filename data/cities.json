@@ -71,6 +71,18 @@
         "lng": "0.19593000411987307"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Saint-Hilaire-de-Riez",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-18T17:10:35.725Z",
+      "notes": "Vacances trop cool...",
+      "position": {
+        "lat": "46.71938707904171",
+        "lng": "-1.945610046386719"
+      },
+      "id": 98443201
     }
   ]
 }
